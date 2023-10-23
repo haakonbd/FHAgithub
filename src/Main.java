@@ -6,6 +6,6 @@ public class Main {
     }
 
     public static void doMagic(){
-        System.out.println("blabla");
+        System.out.println("blololabla");
     }
 }
